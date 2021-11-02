@@ -1,7 +1,7 @@
 # Youtube website  
 
-you will be making a youtube clone using react and redux 
-* use https://www.googleapis.com/youtube/v3 via axios to get the videos.
+You will be making a youtube clone using react and redux 
+* Use https://www.googleapis.com/youtube/v3 via axios to get the videos.
 * The home page should display the most popular videos.
 * There should be search bar to search and display videos.
 * When clicking on video you should go to another component and display the video and some details about the video like (title, publishedAt, channelTitle, description). 
