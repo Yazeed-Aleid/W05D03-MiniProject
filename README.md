@@ -11,3 +11,7 @@ You will be making a youtube clone using react and redux
 ## Bonus 
 * Dark light theme using redux. 
 * Switch website between arabic and english based on choosen language. 
+
+## To get key for Youtube API you can follow these resources:
+* [1](https://blog.hubspot.com/website/how-to-get-youtube-api-key)
+* [2](https://www.youtube.com/watch?v=pP4zvduVAqo)
